@@ -1,8 +1,12 @@
-# Awesome Web
+# Awesome Tech
 
 This repo is a collection of useful or/and interesting links about web productions.
 
 ## Interaction design
+
+### Web Animation
+
+- https://sparkbox.github.io/bouncy-ball/ : Comparing web animation techniques by showing how to bounce a ball with each one.
 
 ## Web development
 
