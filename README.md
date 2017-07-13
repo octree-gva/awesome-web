@@ -7,6 +7,8 @@ This repo is a collection of useful or/and interesting links about web productio
 ### Web Animation
 
 - https://sparkbox.github.io/bouncy-ball/ : Comparing web animation techniques by showing how to bounce a ball with each one.
+- [Codrops](https://tympanus.net/codrops/) : Inspiring open-source snippets for animations and interactions
+- [Vivus.js](https://github.com/maxwellito/vivus) : JS library for animating SVG
 
 ## Web development
 
