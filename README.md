@@ -17,6 +17,7 @@ This repo is a collection of useful or/and interesting links about web productio
 ### Tools
 
 - [Create-React-App](https://github.com/facebookincubator/create-react-app) : Create React apps with no build configuration
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) : Drag and drop SVG file optimisation
 
 ### Libraries
 
