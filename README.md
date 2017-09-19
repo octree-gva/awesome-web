@@ -11,7 +11,7 @@ This repo is a collection of useful or/and interesting links about web productio
 - [Vivus.js](https://github.com/maxwellito/vivus) : JS library for animating SVG
 - [Octree in Three.js](https://github.com/collinhover/threeoctree) : Efficient octree in Webgl
 - [VelocityJS](http://velocityjs.org/): JS library for animating DOM with CSS transitions. No JQery needed.
-- 
+
 
 ## Web development
 
